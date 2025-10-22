@@ -13,3 +13,9 @@ Learning APIs with localStorage, sessionStorage, Cookies, and also Async JS
 ### 3. JSON.stringify()
 
 ### 4. JSON.parse()
+
+## Day1
+
+### 1. localStorage()
+
+### 2. cookie
